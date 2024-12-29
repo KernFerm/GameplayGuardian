@@ -1,4 +1,9 @@
+<div align="center">
+
 # 🌟🎮 Welcome to GameplayGuardian! 🌟🎮
+
+</div>
+
 
 <div align="center">
   <img src="https://github.com/KernFerm/GameplayGuardian/blob/main/gameplay-guardian.png" width="300">
