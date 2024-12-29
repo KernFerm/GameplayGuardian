@@ -1,5 +1,10 @@
 # 🌟🎮 Welcome to GameplayGuardian! 🌟🎮
 
+<div align="center">
+  <img src="https://github.com/KernFerm/GameplayGuardian/blob/main/gameplay-guardian.png" width="300">
+</div>
+
+
 ## ✨ Enhance Your Twitch Experience!
 
 Jump into the action with **GameplayGuardian**, our dedicated Twitch bot designed to make every streaming session a blast! Say goodbye to silence and hello to a chat that's always buzzing with activity! 🎉🗨️
