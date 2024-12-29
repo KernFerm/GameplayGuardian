@@ -24,7 +24,7 @@ Built with ❤️ using Node.js, GameplayGuardian employs sophisticated algorith
 
 Your thoughts and suggestions mean the world to us! 💬 Let us know how you feel, share your ideas, or point out what needs tweaking through our GitHub issues. Your feedback is crucial in steering GameplayGuardian towards perfection.
 
-**Don’t have a GitHub account?** It’s free and easy to set up! Sign up to track issues, follow our [organization's GitHub](#) for updates, or interact through issues directly!
+**Don’t have a GitHub account?** It’s free and easy to set up! Sign up to track issues, follow our [**fnbubbles420 org**](https://github.com/fnbubbles420-org) for updates, or interact through issues directly!
 
 ## 📖 How to Add GameplayGuardian to Your Twitch Channel
 
