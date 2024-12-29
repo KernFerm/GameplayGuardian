@@ -42,7 +42,10 @@ Interested in contributing? Great! Here's how you can help:
 
 Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on contributions.
 
-## 📜 License
+# LICENSE
+## ***This project is proprietary and all rights are reserved by the author.***
+## ***Unauthorized copying, distribution, or modification of this project is strictly prohibited.***
+## ***Unless You have written permission from the Developer or the FNBUBBLES420 ORG.***
 
 
 ## 🙌 Acknowledgments
