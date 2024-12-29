@@ -8,7 +8,7 @@ Jump into the action with **GameplayGuardian**, our dedicated Twitch bot designe
 
 - **📢 Energetic Engagement:** GameplayGuardian keeps the party going with messages that pop up based on stream activities and viewer interactions! Imagine a host that's always on point—keeping the energy high and the conversation flowing!
 
-- **🤖 Dynamic Chat Companion:** More than just a bot, GameplayGuardian is an integral part of the stream ecosystem, keeping the chat lively, whether you’re battling bosses or just chilling out. 
+- **🤖 Dynamic Chat Companion:** More than just a bot, GameplayGuardian is an integral part of the stream ecosystem, keeping the chat lively, whether you’re battling bosses or just chilling out.
 
 - **🛡️ Safety and Compliance Guardian:** With strict adherence to Twitch's regulations and community guidelines, GameplayGuardian ensures a safe haven for all. It's on the lookout to keep spam at bay and ensure a welcoming atmosphere for everyone.
 
@@ -22,7 +22,9 @@ Built with ❤️ using Node.js, GameplayGuardian employs sophisticated algorith
 
 ### 💌 Feedback is Fuel:
 
-Your thoughts and suggestions mean the world to us! 💬 Let us know how you feel, share your ideas, or point out what needs tweaking through our GitHub issues. Your feedback is crucial in steering GameplayGuardian towards perfection. 🌟
+Your thoughts and suggestions mean the world to us! 💬 Let us know how you feel, share your ideas, or point out what needs tweaking through our GitHub issues. Your feedback is crucial in steering GameplayGuardian towards perfection.
+
+**Don’t have a GitHub account?** It’s free and easy to set up! Sign up to track issues, follow our [organization's GitHub](#) for updates, or interact through issues directly!
 
 ## 📖 How to Add GameplayGuardian to Your Twitch Channel
 
