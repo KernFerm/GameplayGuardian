@@ -24,13 +24,14 @@ GameplayGuardian utilizes advanced algorithms to manage and send messages strate
 
 Your feedback drives our improvement! 💬 Share your thoughts, suggest features, or report issues directly through GitHub issues. We value your input and strive to make GameplayGuardian better with each update.
 
-## 📖 How to Use GameplayGuardian
+## 📖 How to Add GameplayGuardian to Your Twitch Channel
 
-To get started with GameplayGuardian:
+To add GameplayGuardian to your Twitch channel:
 
-1. **Join a Stream:** Simply enter a stream where GameplayGuardian is active.
-2. **Participate in Chat:** Engage by chatting and watch how GameplayGuardian enhances the conversation.
-3. **Enjoy the Stream:** Enjoy a more interactive and entertaining streaming experience.
+1. **Join Our Discord:** Visit our Discord server and head to the **#gameplayguardian-twitchchatbot** channel.
+2. **Request Access:** Ping `@Bubbles` in the channel to request the bot be added to your stream.
+3. **Setup Assistance:** Our team will assist you with the setup and ensure everything is tailored to enhance your streaming experience.
+4. **Make the Bot a Moderator:** To enable GameplayGuardian to send messages in your Twitch channel chat, use the command `/mod GameplayGuardian`. This step is crucial as it allows the bot to operate effectively without moderation permissions for actions like bans or timeouts.
 
 ## 🤝 Contributing
 
