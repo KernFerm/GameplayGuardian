@@ -41,7 +41,7 @@ Your thoughts and suggestions mean the world to us! 💬 Let us know how you fee
 **Ready to elevate your channel? Follow these steps to bring GameplayGuardian aboard:**
 
 1. **🔗 Join Our Discord:** Make your way to our Discord server and navigate to the **#gameplayguardian-twitchchatbot** channel.
-   - [**click to join - Discord Invite Link**](https://discord.fnbubbles420.org/invite)
+   - [**click to join - Discord Invite Link**](https://discord.fnbubbles420.org/)
 3. **📢 Request Access:** Give a shout-out to `@Bubbles` in the channel to get the bot added to your stream.
 4. **🛠️ Setup Assistance:** Our expert team will jump in to help set things up and customize the bot to perfectly fit your stream’s vibe.
 
