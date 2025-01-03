@@ -44,7 +44,6 @@ Your thoughts and suggestions mean the world to us! 💬 Let us know how you fee
    - [**click to join - Discord Invite Link**](https://discord.fnbubbles420.org/invite)
 3. **📢 Request Access:** Give a shout-out to `@Bubbles` in the channel to get the bot added to your stream.
 4. **🛠️ Setup Assistance:** Our expert team will jump in to help set things up and customize the bot to perfectly fit your stream’s vibe.
-5. **👑 Make the Bot a Moderator:** Swing the command `/mod GameplayGuardian` in your Twitch channel to grant the bot the needed powers to send messages. This step is vital for its operation but rest assured, it’s all about the messages, no moderation actions involved!
 
 ## 🤝 Join the Development Adventure!
 
