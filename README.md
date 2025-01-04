@@ -44,7 +44,7 @@ Your thoughts and suggestions mean the world to us! 💬 Let us know how you fee
    - [**click to join - Discord Invite Link**](https://discord.fnbubbles420.org/)
 3. **📢 Request Access:** Give a shout-out to `@Bubbles` in the channel to get the bot added to your stream.
 4. **🛠️ Setup Assistance:** Our expert team will jump in to help set things up and customize the bot to perfectly fit your stream’s vibe.
-5. **MAKE BOT A MOD** `/mod gameplayguardian` so it can send messages in chat.
+5. **MAKE BOT A MOD** `/mod gameplayguardian` so it can send messages in chat. ***IT DOES NOT USE MOD ACTIONS IN CHANNEL OR EVER JUST SENDS MESSAGE EVERY SO OFTEN IN CHAT***
 
 ## 🤝 Join the Development Adventure!
 
