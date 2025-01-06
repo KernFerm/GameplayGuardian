@@ -46,6 +46,11 @@ Your thoughts and suggestions mean the world to us! 💬 Let us know how you fee
 4. **🛠️ Setup Assistance:** Our expert team will jump in to help set things up and customize the bot to perfectly fit your stream’s vibe.
 5. **MAKE BOT A MOD** `/mod gameplayguardian` so it can send messages in chat. ***IT DOES NOT USE MOD ACTIONS IN CHANNEL OR EVER JUST SENDS MESSAGE EVERY SO OFTEN IN CHAT***
 
+## Screenshot
+<div align="left">
+  <img src="https://github.com/KernFerm/GameplayGuardian/blob/main/Screenshot%202025-01-06%20172717.png" width="150">
+</div>
+
 ## 🤝 Join the Development Adventure!
 
 Want to contribute? Fantastic! Here’s how you can make a big splash:
