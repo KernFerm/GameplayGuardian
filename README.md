@@ -48,7 +48,7 @@ Your thoughts and suggestions mean the world to us! 💬 Let us know how you fee
 
 ## Screenshot
 <div align="left">
-  <img src="https://github.com/KernFerm/GameplayGuardian/blob/main/Screenshot%202025-01-06%20172717.png" width="150">
+  <img src="https://github.com/KernFerm/GameplayGuardian/blob/main/Screenshot%202025-01-06%20172717.png" width="275">
 </div>
 
 ## 🤝 Join the Development Adventure!
