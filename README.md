@@ -55,7 +55,7 @@ Built with ❤️ using Node.js, GameplayGuardian employs sophisticated algorith
 
 ## Screenshot
 <div align="left">
-  <img src="https://github.com/KernFerm/GameplayGuardian/blob/main/Screenshot%202025-01-06%20172717.png" width="275">
+  <img src="https://github.com/KernFerm/GameplayGuardian/blob/main/image.png" width="275">
 </div>
 
 ## 🤝 Join the Development Adventure!
