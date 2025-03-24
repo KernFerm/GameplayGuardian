@@ -58,11 +58,6 @@ Built with ❤️ using Node.js, GameplayGuardian employs sophisticated algorith
   <img src="https://github.com/KernFerm/GameplayGuardian/blob/main/image.png" width="275">
 </div>
 
-## 🤝 Join the Development Adventure!
-
-
-Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for more on how to get started.
-
 ## 🔒 License
 
 This project is under strict proprietary control. All rights are reserved by the author. Any unauthorized reproduction, distribution, or alteration is strictly forbidden unless explicitly permitted by the Developer or FNBUBBLES420 ORG.
