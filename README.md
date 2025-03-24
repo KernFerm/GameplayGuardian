@@ -30,21 +30,28 @@ Dive into the fun by interacting with GameplayGuardian in chat. Your engagement 
 
 Built with ❤️ using Node.js, GameplayGuardian employs sophisticated algorithms to tactically manage and dispatch messages, keeping chat smooth and engaging without overwhelming viewers. This ensures everyone has a great time without the clutter!
 
-### 💌 Feedback is Fuel:
-
-Your thoughts and suggestions mean the world to us! 💬 Let us know how you feel, share your ideas, or point out what needs tweaking through our GitHub issues. Your feedback is crucial in steering GameplayGuardian towards perfection.
-
-**Don’t have a GitHub account?** It’s free and easy to set up! Sign up to track issues, follow our [**fnbubbles420 org**](https://github.com/fnbubbles420-org) for updates, or interact through issues directly!
 
 ## 📖 How to Add GameplayGuardian to Your Twitch Channel
 
 **Ready to elevate your channel? Follow these steps to bring GameplayGuardian aboard:**
 
-1. **🔗 Join Our Discord:** Make your way to our Discord server and navigate to the **#gameplayguardian-twitchchatbot** channel.
-   - [**click to join - Discord Invite Link**](https://discord.fnbubbles420.org/)
-3. **📢 Request Access:** Give a shout-out to `@Bubbles` in the channel to get the bot added to your stream.
-4. **🛠️ Setup Assistance:** Our expert team will jump in to help set things up and customize the bot to perfectly fit your stream’s vibe.
-5. **MAKE BOT A MOD** `/mod gameplayguardian` so it can send messages in chat. ***IT DOES NOT USE MOD ACTIONS IN CHANNEL OR EVER JUST SENDS MESSAGE EVERY SO OFTEN IN CHAT***
+---
+---
+---
+## 📌ADDING `GameplayGuardian` TO YOUR TWITCH CHANNEL📌
+
+### Authorize the Bot
+
+- Make sure to `mod` the bot in your Twitch channel.
+- `copy` and `paste` below to your twitch channel:
+```
+/mod GameplayGuardian
+```
+- Join the discord **🚨🚨[Click Here To Join Discord Server](https://discord.gg/eCGpWUf5aR)🚨🚨**
+- `PING` ***Bubbles*** in channel **`#gameplayguardian-help`** with your ***Twitch Username*** to request the bot to be added.
+---
+---
+---
 
 ## Screenshot
 <div align="left">
@@ -53,11 +60,6 @@ Your thoughts and suggestions mean the world to us! 💬 Let us know how you fee
 
 ## 🤝 Join the Development Adventure!
 
-Want to contribute? Fantastic! Here’s how you can make a big splash:
-
-- **🐞 Report Bugs**
-- **💡 Suggest Improvements**
-- **📝 Enhance Documentation**
 
 Check out our [CONTRIBUTING.md](CONTRIBUTING.md) for more on how to get started.
 
