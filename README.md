@@ -47,7 +47,7 @@ Built with ❤️ using Node.js, GameplayGuardian employs sophisticated algorith
 ```
 /mod GameplayGuardian
 ```
-- Join the discord **🚨🚨[Click Here To Join Discord Server](https://discord.gg/eCGpWUf5aR)🚨🚨**
+- Join the discord **🚨🚨[https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)🚨🚨**
 - `PING` ***Bubbles*** in channel **`#gameplayguardian-help`** with your ***Twitch Username*** to request the bot to be added.
 ---
 ---
